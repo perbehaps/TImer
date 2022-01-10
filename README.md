@@ -1,1 +1,1 @@
-# A basic coundown command line application.
+# A basic countdown command line application.
